@@ -1,0 +1,8 @@
+{
+  "bag": {
+    "health": 50,
+    "name": "Bag",
+    "speed": 100,
+    "sprite": "bag"
+  }
+}
